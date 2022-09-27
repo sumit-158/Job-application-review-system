@@ -27,3 +27,9 @@ Then simply apply the migrations:
 You can now run the development server:
 
     $ python manage.py runserver
+
+To check swagger docs:
+http://127.0.0.1:8000/swagger/
+
+To check APIs overview:
+http://127.0.0.1:8000/job_portal/
